@@ -1,2 +1,2 @@
 this is file2
-thisis new content
+this is new content
